@@ -1,3 +1,7 @@
+Hello,my mail address is tz310200@gmail.com.
+
+![Python](https://img.shields.io/badge/-542095059-blue?style=flat&logo=Tencent-QQ)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
